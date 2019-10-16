@@ -1,3 +1,25 @@
+In this project I followed along with the Youtube.com channel Programming With Mosh's "React Tutorial - Learn React - React Crash Course" - https://www.youtube.com/watch?v=Ke90Tje7VS0
+
+Overall I thought that Mosh's approach was pretty straight forward. It covered:
+* JSX
+* Rendering Lists
+* Conditional Rendering
+* Handling Events
+* Updating State
+* Passing Data
+* Raising and Handling events
+* Keeping Multiple components in sync.
+* Functional Components
+* Lifecycle hooks.
+
+Talking with some of my company's front end team it seems like everything was pretty legit and follows best practices. 
+
+Overall the tutorial is 2 hours 20 minutes.  However following along, running down rabbit holes (how does the virtual DOM work?), rewatching and checking understanding took roughly 8 hours.
+
+This repo exists as a personal reference.
+
+--------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
